@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.header-item {
+  margin: 10px;
+}
+.header-button {
+  color: #1e293b;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  padding: 5px 20px;
+  background-color: transparent;
+}
+.selected-item {
+  border: 2px solid #0284c7;
+  border-radius: 20px;
+  color: #0284c7;
+  font-weight: 600;
+}
